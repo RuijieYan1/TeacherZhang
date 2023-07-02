@@ -1,0 +1,2 @@
+Epoch: 1	TrainLoss 1.427655	TestLoss 0.042958	TestAccuracy 45.4
+Epoch: 2	TrainLoss 4.962054	TestLoss 0.035451	TestAccuracy 62.0

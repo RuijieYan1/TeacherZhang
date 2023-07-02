@@ -1,0 +1,12 @@
+f = open(r'D:/biyeshiyan/data_acc_loss.txt','a',encoding ='utf - 8')
+f.write(train_loss)
+f.write('\t')
+f.write(val_loss)
+f.write('\n')
+f.close()
+f.write("t_losssaffsagagaggaea")
+f.write('\t')
+f.write("v_loss")
+f.write('\n')
+
+print('ok')

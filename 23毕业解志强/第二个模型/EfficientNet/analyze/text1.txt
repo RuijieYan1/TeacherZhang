@@ -1,0 +1,1 @@
+/tmp/Test9_efficientNet/test_pic/pic-rotate24.jpg	4
